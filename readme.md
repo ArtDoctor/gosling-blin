@@ -1,9 +1,9 @@
 # Gosling, blin
-![Alt Text](files/kapets.gif)
+![Example](files/example.jpg)
 
 ## Description
 
-This project sends gifs of Ryan Gosling every time you say "блин" or "капец" in Telegram.  
+This project sends gifs of Ryan Gosling every time you (or anybody else) say "блин" or "капец" in Telegram chat/dialog.  
 It also has a 10% chance of sending pancakes.  
 
 ## Installation
